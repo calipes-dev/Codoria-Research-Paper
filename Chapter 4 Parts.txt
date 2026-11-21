@@ -3,7 +3,7 @@ System Development Procedure
 
 *Missing Part
 
-Data Analysis - Calipes
+Data Analysis - ✓
 
 
 
@@ -22,10 +22,10 @@ Wireframes - ✓
 
 Phase 3
 
-MVP Creation and Iteration - Calipes
-Validated Learning - Calipes
+MVP Creation and Iteration - ✓
+Validated Learning - ✓
 Lean Canvas - ✓
-Feedback Logs - Calipes
+Feedback Logs - ✓
 Alpha Testing - Calasang
 
 Phase 4
@@ -33,15 +33,15 @@ Phase 4
 Agile Methodology - Satsat
 Agile Backlogs - Satsat
 Sprint Reviews - Satsat
-Iteration Report - Calipes
+Iteration Report - ✓
 
 Phase 5
-Methodological Workflow - Calipes
+Methodological Workflow - ✓
 Integration Diagram - Calasang
 Performance of the System (Beta Testing Results)- Satsat
 
 Total Parts
 
-Calipes (6)
+Calipes (6)- Done
 Calasang (3)
 Satsat (4)
