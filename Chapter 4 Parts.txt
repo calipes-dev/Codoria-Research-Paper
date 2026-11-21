@@ -1,0 +1,47 @@
+
+System Development Procedure
+
+*Missing Part
+
+Data Analysis - Calipes
+
+
+
+
+Phase 2
+
+Mind Map - Calasang
+DFD 0 - ✓
+DFD 1 - ✓
+Use Case Diagram - ✓
+ERD - ✓
+FDD - ✓
+Description of Prototypes Developed - ✓
+System Architecture - ✓
+Wireframes - ✓
+
+Phase 3
+
+MVP Creation and Iteration - Calipes
+Validated Learning - Calipes
+Lean Canvas - ✓
+Feedback Logs - Calipes
+Alpha Testing - Calasang
+
+Phase 4
+
+Agile Methodology - Satsat
+Agile Backlogs - Satsat
+Sprint Reviews - Satsat
+Iteration Report - Calipes
+
+Phase 5
+Methodological Workflow - Calipes
+Integration Diagram - Calasang
+Performance of the System (Beta Testing Results)- Satsat
+
+Total Parts
+
+Calipes (6)
+Calasang (3)
+Satsat (4)
