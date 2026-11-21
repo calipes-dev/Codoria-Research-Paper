@@ -26,7 +26,7 @@ MVP Creation and Iteration - ✓
 Validated Learning - ✓
 Lean Canvas - ✓
 Feedback Logs - ✓
-Alpha Testing - Calasang
+Alpha Testing - ✓ (partial no statistician)
 
 Phase 4
 
@@ -37,7 +37,7 @@ Iteration Report - ✓
 
 Phase 5
 Methodological Workflow - ✓
-Integration Diagram - Calasang
+Integration Diagram - ✓
 Performance of the System (Beta Testing Results)- Satsat
 
 Total Parts
