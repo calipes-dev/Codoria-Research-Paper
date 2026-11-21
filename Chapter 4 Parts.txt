@@ -10,7 +10,7 @@ Data Analysis - Calipes
 
 Phase 2
 
-Mind Map - Calasang
+Mind Map - ✓
 DFD 0 - ✓
 DFD 1 - ✓
 Use Case Diagram - ✓
